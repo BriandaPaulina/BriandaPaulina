@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+##I'm Paulina. I am a Business Analyst at The University of Texas at Arlington.
+##I am working to publish a research article that analysis the key predictors of Loneliness using an XGBoost algorithim with SMOTE and threshold tuning.
+#I am looking for data science jobs!
+
 <!--
 **BriandaPaulina/BriandaPaulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
